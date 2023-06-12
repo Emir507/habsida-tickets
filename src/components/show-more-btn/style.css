@@ -1,0 +1,15 @@
+.show-more-btn {
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 20px;
+  text-align: center;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  color: #ffffff;
+
+  flex: 1;
+  background-color: #2196f3;
+  padding: 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}

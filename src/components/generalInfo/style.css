@@ -1,0 +1,25 @@
+.general-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.general-info__text {
+  display: inline-flex;
+}
+
+.general-info__title {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  color: #a0b0b9;
+}
+
+.general-info__subtitle {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+  color: #4a4a4a;
+}
